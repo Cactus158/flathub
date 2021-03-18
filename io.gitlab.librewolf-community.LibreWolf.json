@@ -1,5 +1,5 @@
 {
-    "app-id": "io.gitlab.LibreWolf",
+    "app-id": "io.gitlab.librewolf-community.LibreWolf",
     "runtime": "org.gnome.Platform",
     "runtime-version": "3.38",
     "sdk": "org.gnome.Sdk",
